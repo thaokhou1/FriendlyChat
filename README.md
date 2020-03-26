@@ -1,6 +1,5 @@
 # friendlychat
-
-A new Flutter project.
+ This is an offline version of the tutorial for making a chat app.
 
 ## Getting Started
 
